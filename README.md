@@ -18,7 +18,7 @@ See `example/lib/main.dart` for an actual usage example.
 
 =======================================================================
 
-# Using this Frok Directly
+# Using this Frok Directly (branch : v1.0.0)
 
 This is a fork of https://github.com/goderbauer/contact_picker repository.
 There was an issue while building APK for android OS.
