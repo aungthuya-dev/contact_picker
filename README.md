@@ -27,11 +27,11 @@ There are a lot of plugins for this kind of functionality.
 I checked all and found some kind of issues and all are a little outdated.
 
 So, I forked this repository and Fixed the issues.
-I also reimplemented and cleaned the codes by by using latest sdks and plugin version by avoiding deprecated methods and classes.
+I also reimplemented and cleaned the codes by using latest sdk and plugin versions by avoiding deprecated methods and classes.
 I created pull request to merge and update original plugin.
-But the developer is not active for a while and we can't know when he merge my pull request.
+But the developer is not active for a while and we can't know when he will merge my pull request.
 
-I don't also want to create and publish new plugins to https://pub.dev.
+I don't also want to create and publish with new name to https://pub.dev.
 
 If you meet some problems with other plugins and want to try my fixes, you can add this repository directely as dependency.
 
